@@ -9,16 +9,19 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 
 
 ## Education
-- **Northeastern University**, Boston, MA  
-  *Master of Science in Data Science* (Expected May 2025)  
-  **Graduate Teaching Assistant, Khoury College of Computer Science**  
-  - **Fall 2023**: TA for *DS 2000 Programming with Data*, assisting 100+ students with foundational programming concepts, debugging, and solving real-world data challenges.  
-  - **Fall 2024**: TA for *DS 3000 Advanced Programming with Data*, guiding students through advanced topics such as APIs, data visualization, and efficient data manipulation.  
-  - Mentored students during office hours and project consultations, enhancing their problem-solving skills and my ability to communicate complex concepts effectively.  
-  - Collaborated with faculty on assignment design and grading, improving organizational and time management skills.  
-  - This role enhanced my communication, teaching, and leadership abilities while reinforcing my technical expertise.  
 
-  *Relevant Courses*: Machine Learning, Deep Learning, NLP, Data Processing & Visualization  
+**Northeastern University**, Boston, MA  
+*Master of Science in Data Science* (Expected May 2025)  
+**Graduate Teaching Assistant, Khoury College of Computer Science**  
+- **Fall 2023**: TA for *DS 2000 Programming with Data*  
+  Assisted 100+ students in learning programming fundamentals, debugging techniques, and real-world data problem-solving.  
+- **Fall 2024**: TA for *DS 3000 Advanced Programming with Data*  
+  Guided students through advanced topics, including APIs, data visualization, and efficient data manipulation.  
+- Mentored students during office hours and project consultations, improving their problem-solving abilities.  
+- Collaborated with faculty on assignment creation, grading, and classroom organization.  
+- Strengthened communication, teaching, and leadership skills through active engagement with diverse student groups.  
+
+*Relevant Courses*: Machine Learning, Deep Learning, NLP, Data Processing & Visualization  
 
 
 - **Vellore Institute of Technology**, Vellore, India  
