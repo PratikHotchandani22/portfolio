@@ -12,7 +12,6 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
   - **Fall 2024**: TA for *DS 3000 Advanced Programming with Data*, guiding students through advanced topics such as APIs, data visualization, and efficient data manipulation.  
   - Mentored students during office hours and project consultations, enhancing their problem-solving skills and my ability to communicate complex concepts effectively.  
   - Collaborated with faculty on assignment design and grading, improving organizational and time management skills.  
-  - This role enhanced my communication, teaching, and leadership abilities while reinforcing my technical expertise.  
 
   *Relevant Courses*: LLM Agents, Supervised & Unsupervised Machine Learning, Deep Learning, NLP, Database Systems, Data Processing & Visualization, Algorithms  
 
@@ -21,18 +20,23 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
   *Bachelor of Technology in Computer Science and Engineering* (June 2016 – June 2020)  
   *Relevant Courses*: Probability Theory, Linear Algebra, Statistics, Calculus, Differential Equations, AI, Data Mining 
 
-## Experience
-### Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)
-- Directed data gathering, validation, & preprocessing pipelines for product return data from multiple sources (Amazon, BestBuy, Target) using PySpark.
-- Identified 33 distinct classes on the product return data using BERTopic, facilitating data-driven insights for stakeholders.
-- Fine-tuned, validated, & deployed a RoBERTa (Macro F1: 0.92) model for multi-label classification (33) on product return data.
-- Curated 100K+ records of product/app review textual data from multiple sources(Amazon, BestBuy, Target) using PySpark & utilized BERTopic, collaborating with stakeholders to identify 125 distinct actionable classes.
-- Solution designed an Abstract Based Sentiment Analysis pipeline that runs weekly using GPT-4 on the above identified 125 labels & Engineered prompts to achieve a Micro F1 score of 0.6 and Macro F1 score of 0.84.
-- Conducted A/B testing & **benchmarking of open-source LLMs** to evaluate their performance on the above ABSA pipelines, informing model selection.
-- Refactored Abstract Based Sentiment Analysis pipelines on product review data from GPT-4 to Llama 3.1, **cutting costs by 97%**.
-- Collaborated with stakeholders to define requirements for an "Intelligent Interview Assistant," integrating OpenAI's Assistant API with custom prompt engineering and function calls, which enhanced Natural Language Understanding (NLU) accuracy by 80%.
-- Developed a Streamlit app with a Snowflake SQL backend, enabling 200+ daily interviews and saving 50+ hours weekly, streamlining the interview process and significantly improving operational efficiency.
-- Led the system design, development, red-teaming, and deployment of a RAG-based customer service assistant on the Bose website, handling 700+ daily interactions.
+## Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)  
+
+- Directed data gathering, validation, & preprocessing pipelines for product return data from multiple sources (Amazon, BestBuy, Target) using **PySpark**.  
+- Identified 33 distinct classes on the product return data using **BERTopic**, facilitating data-driven insights for stakeholders.  
+- Fine-tuned, validated, & deployed a **RoBERTa** (Macro F1: **0.92**) model for **multi-label classification (33)** on product return data.  
+- Curated 100K+ records of product/app review textual data using **PySpark** & utilized **BERTopic**, collaborating with stakeholders to identify **125 distinct actionable classes**.  
+- Designed an **Abstract Based Sentiment Analysis pipeline** using **GPT-4** on the 125 labels, engineering prompts to achieve a **Micro F1: 0.6** and **Macro F1: 0.84**.  
+- Conducted **A/B testing** & **benchmarking of open-source LLMs** to evaluate performance on ABSA pipelines, informing model selection.  
+- Refactored sentiment analysis pipelines from GPT-4 to **Llama 3.1**, **cutting costs by 97%**.  
+- Collaborated with stakeholders to define requirements for an "Intelligent Interview Assistant," integrating **OpenAI's Assistant API** with custom **prompt engineering**, enhancing **NLU accuracy by 80%**.  
+- Developed a **Streamlit app** with a **Snowflake SQL** backend, enabling **200+ daily interviews** and saving **50+ hours weekly**.  
+- Led system design, development, and deployment of a **RAG-based customer service assistant**, handling **700+ daily interactions**.  
+
+### Key Focus Areas:  
+- **Technical tools/frameworks**: PySpark, BERTopic, RoBERTa, GPT-4, Llama 3.1, OpenAI Assistant API, Streamlit, Snowflake, RAG.  
+- **Metrics/results**: F1 scores, cost reduction (97%), efficiency gains (50+ hours saved weekly), scalability (200+ interviews/day, 700+ interactions/day).  
+- **Methodologies**: Multi-label classification, abstract-based sentiment analysis, A/B testing, prompt engineering.  
 
 ### Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)  
 - Developed a cross-platform ERP application using C#, Xamarin.Forms, and Azure, providing SAP S4 HANA access on mobile and Zebra devices, improving productivity for over 10,000 daily users.  
