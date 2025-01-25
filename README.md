@@ -34,9 +34,14 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 - Developed a Streamlit app with a Snowflake SQL backend, enabling 200+ daily interviews and saving 50+ hours weekly, streamlining the interview process and significantly improving operational efficiency.
 - Led the system design, development, red-teaming, and deployment of a RAG-based customer service assistant on the Bose website, handling 700+ daily interactions.
 
-### Software Engineer – Data Platform - West Pharmaceutical Services (June 2020 – December 2022)
-- Enhanced CI/CD pipelines, reducing feature delivery time by 45% using Agile methodologies and Azure DevOps.
-- Built dashboards and KPIs using Python, SQL, and Tableau to analyze supply chain data and SAP Metadata.
+### Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)  
+- Developed a cross-platform ERP application using C#, Xamarin.Forms, and Azure, providing SAP S4 HANA access on mobile and Zebra devices, improving productivity for over 10,000 daily users.  
+- Enhanced CI/CD pipelines and streamlined development workflows, reducing feature delivery time by 55% using Agile methodologies and Azure DevOps.  
+- Collaborated with stakeholders and SAP engineers to integrate SAP S4 HANA modules (Manufacturing, EWM, HR) into mobile workflows, ensuring efficient usability for factory workers.  
+- Partnered with UI/UX designers to create intuitive interfaces, resulting in improved worker adoption and reduced training time.  
+- Led weekly stakeholder demos, scrum meetings, and feature testing sessions, aligning technical deliverables with business goals.  
+- Provided deployment support during releases, ensuring smooth rollouts and maintaining system reliability.  
+
 
 ## Projects
 ### This Week in Football (September 2024)
