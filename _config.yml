@@ -1,27 +1,2 @@
-# Site settings
-title: "Pratik Hotchandani"
-email: pratik.hotchandani@gmail.com
-description: "Generative AI Engineer skilled in deploying scalable AI solutions using OpenAI and open-source LLMs."
-baseurl: "" # Leave this blank unless the site is in a subdirectory
-#url: "https://yourgithubusername.github.io" # Update with your actual GitHub Pages URL
-
-# Jekyll theme
+title: Pratik Hotchandani
 theme: jekyll-theme-minimal
-
-# Author settings
-author:
-  name: "Pratik Hotchandani"
-  email: pratik.hotchandani@gmail.com
-
-# Social links
-social_links:
-  github: https://github.com/PratikHotchandani22
-  linkedin: https://linkedin.com/in/pratik-hotchandani
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
