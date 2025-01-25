@@ -1,7 +1,3 @@
-# Pratik Hotchandani
-
-**Generative AI Engineer skilled in deploying scalable AI solutions using OpenAI and open-source LLMs.**
-
 ## About Me
 A full-time student and part-time chef (only in my own kitchen), who loves hosting dinners that somehow end up with everyone overstuffed and overly impressed. When I’m not juggling assignments, you’ll find me soaking up the sun, hitting the beach, or attempting to pet every cat and dog I spot on the street.
 
@@ -26,10 +22,17 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
   *Relevant Courses*: Probability Theory, Linear Algebra, Statistics, Calculus, Differential Equations, AI, Data Mining 
 
 ## Experience
-### Generative AI Intern - Bose Corporation (January 2024 – August 2024)
-- Built an AI interview assistant with OpenAI API, automating 200+ daily interviews and saving 50+ hours weekly.
-- Refactored sentiment analysis pipelines from GPT-4 to Llama 3.1, reducing quarterly costs by 97%.
-- Deployed a RAG-based customer service assistant on the Bose website, handling 700+ daily interactions.
+### Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)
+- Directed data gathering, validation, & preprocessing pipelines for product return data from multiple sources (Amazon, BestBuy, Target) using PySpark.
+- Identified 33 distinct classes on the product return data using BERTopic, facilitating data-driven insights for stakeholders.
+- Fine-tuned, validated, & deployed a RoBERTa (Macro F1: 0.92) model for multi-label classification (33) on product return data.
+- Curated 100K+ records of product/app review textual data from multiple sources(Amazon, BestBuy, Target) using PySpark & utilized BERTopic, collaborating with stakeholders to identify 125 distinct actionable classes.
+- Solution designed an Abstract Based Sentiment Analysis pipeline that runs weekly using GPT-4 on the above identified 125 labels & Engineered prompts to achieve a Micro F1 score of 0.6 and Macro F1 score of 0.84.
+- Conducted A/B testing & **benchmarking of open-source LLMs** to evaluate their performance on the above ABSA pipelines, informing model selection.
+- Refactored Abstract Based Sentiment Analysis pipelines on product review data from GPT-4 to Llama 3.1, **cutting costs by 97%**.
+- Collaborated with stakeholders to define requirements for an "Intelligent Interview Assistant," integrating OpenAI's Assistant API with custom prompt engineering and function calls, which enhanced Natural Language Understanding (NLU) accuracy by 80%.
+- Developed a Streamlit app with a Snowflake SQL backend, enabling 200+ daily interviews and saving 50+ hours weekly, streamlining the interview process and significantly improving operational efficiency.
+- Led the system design, development, red-teaming, and deployment of a RAG-based customer service assistant on the Bose website, handling 700+ daily interactions.
 
 ### Software Engineer – Data Platform - West Pharmaceutical Services (June 2020 – December 2022)
 - Enhanced CI/CD pipelines, reducing feature delivery time by 45% using Agile methodologies and Azure DevOps.
