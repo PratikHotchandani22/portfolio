@@ -29,22 +29,64 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 - Designed an **Abstract Based Sentiment Analysis pipeline** using **GPT-4** on the 125 labels, engineering prompts to achieve a **Micro F1: 0.6** and **Macro F1: 0.84**.  
 - Conducted **A/B testing** & **benchmarking of open-source LLMs** to evaluate performance on ABSA pipelines, informing model selection.  
 - Refactored sentiment analysis pipelines from GPT-4 to **Llama 3.1**, **cutting costs by 97%**.  
-- Collaborated with stakeholders to define requirements for an "Intelligent Interview Assistant," integrating **OpenAI's Assistant API** with custom **prompt engineering**, enhancing **NLU accuracy by 80%**.  
+- Collaborated with stakeholders to define requirements for an "Intelligent Interview Assistant," integrating **OpenAI's Assistant API** with custom **prompt engineering**, enhancing **NLU accuracy by 80%**. 
 - Developed a **Streamlit app** with a **Snowflake SQL** backend, enabling **200+ daily interviews** and saving **50+ hours weekly**.  
 - Led system design, development, and deployment of a **RAG-based customer service assistant**, handling **700+ daily interactions**.  
 
 ### Key Focus Areas:  
-- **Technical tools/frameworks**: PySpark, BERTopic, RoBERTa, GPT-4, Llama 3.1, OpenAI Assistant API, Streamlit, Snowflake, RAG.  
-- **Metrics/results**: F1 scores, cost reduction (97%), efficiency gains (50+ hours saved weekly), scalability (200+ interviews/day, 700+ interactions/day).  
-- **Methodologies**: Multi-label classification, abstract-based sentiment analysis, A/B testing, prompt engineering.  
 
-### Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)  
-- Developed a cross-platform ERP application using C#, Xamarin.Forms, and Azure, providing SAP S4 HANA access on mobile and Zebra devices, improving productivity for over 10,000 daily users.  
-- Enhanced CI/CD pipelines and streamlined development workflows, reducing feature delivery time by 55% using Agile methodologies and Azure DevOps.  
-- Collaborated with stakeholders and SAP engineers to integrate SAP S4 HANA modules (Manufacturing, EWM, HR) into mobile workflows, ensuring efficient usability for factory workers.  
-- Partnered with UI/UX designers to create intuitive interfaces, resulting in improved worker adoption and reduced training time.  
-- Led weekly stakeholder demos, scrum meetings, and feature testing sessions, aligning technical deliverables with business goals.  
+#### **Technical Tools & Frameworks**  
+- **Data Processing & Analysis**: PySpark, Snowflake SQL  
+- **NLP & Topic Modeling**: BERTopic, RoBERTa, GPT-4, Llama 3.1  
+- **Application Development**: Streamlit, OpenAI Assistant API, RAG (Retrieval-Augmented Generation)  
+
+#### **Key Achievements & Metrics**  
+- **Model Performance**: Achieved **Macro F1: 0.92** for multi-label classification and **Macro F1: 0.84** for sentiment analysis.  
+- **Cost Optimization**: Reduced sentiment analysis pipeline costs by **97%** through refactoring and leveraging open-source LLMs.  
+- **Operational Efficiency**: Saved **50+ hours weekly** and enabled **200+ daily interviews** through automation and app development.  
+- **Scalability**: Deployed a RAG-based assistant handling **700+ daily interactions**, improving customer service efficiency.  
+
+#### **Methodologies & Expertise**  
+- **Machine Learning**: Fine-tuning and deploying transformer models (RoBERTa, GPT-4, Llama 3.1) for multi-label classification and sentiment analysis.  
+- **Prompt Engineering**: Designed and optimized prompts for GPT-4 and OpenAI Assistant API, improving NLU accuracy by **80%**.  
+- **A/B Testing & Benchmarking**: Evaluated and compared open-source LLMs to inform model selection and improve pipeline performance.  
+- **End-to-End Pipeline Development**: Built and deployed scalable data preprocessing, modeling, and application pipelines for real-world use cases.  
+
+#### **Collaboration & Impact**  
+- Worked closely with stakeholders to identify **125 actionable classes** from product reviews and deliver data-driven insights.  
+- Collaborated on the design and deployment of an "Intelligent Interview Assistant," streamlining hiring processes and improving candidate experience.  
+- Led the development of a customer service assistant, enhancing user engagement and reducing response times.    
+
+## Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)  
+
+- Developed a **cross-platform ERP application** using **C#**, **Xamarin.Forms**, and **Azure**, providing **SAP S4 HANA** access on mobile and Zebra devices, improving productivity for **10,000+ daily users**.  
+- Enhanced **CI/CD pipelines** and streamlined development workflows, reducing feature delivery time by **55%** using **Agile methodologies** and **Azure DevOps**.  
+- Collaborated with stakeholders and SAP engineers to integrate **SAP S4 HANA modules** (Manufacturing, EWM, HR) into mobile workflows, ensuring efficient usability for factory workers.  
+- Partnered with **UI/UX designers** to create intuitive interfaces, resulting in improved worker adoption and reduced training time.  
+- Led weekly **stakeholder demos**, **scrum meetings**, and feature testing sessions, aligning technical deliverables with business goals.  
 - Provided deployment support during releases, ensuring smooth rollouts and maintaining system reliability.  
+
+### Key Focus Areas:  
+
+#### **Technical Tools & Frameworks**  
+- **Development**: C#, Xamarin.Forms, Azure  
+- **ERP Integration**: SAP S4 HANA (Manufacturing, EWM, HR)  
+- **DevOps & Automation**: Azure DevOps, CI/CD pipelines  
+
+#### **Key Achievements & Metrics**  
+- **Productivity Improvement**: Enabled **10,000+ daily users** to access SAP S4 HANA on mobile and Zebra devices.  
+- **Efficiency Gains**: Reduced feature delivery time by **55%** through optimized CI/CD pipelines and Agile workflows.  
+- **User Adoption**: Improved worker adoption and reduced training time through intuitive UI/UX design.  
+
+#### **Methodologies & Expertise**  
+- **Cross-Platform Development**: Built scalable ERP applications for mobile and Zebra devices using Xamarin.Forms and Azure.  
+- **ERP Integration**: Integrated SAP S4 HANA modules into mobile workflows, enhancing usability for factory workers.  
+- **Agile & Collaboration**: Led scrum meetings, stakeholder demos, and feature testing sessions to align technical deliverables with business goals.  
+
+#### **Collaboration & Impact**  
+- Worked closely with **SAP engineers** and stakeholders to ensure seamless integration of ERP modules into mobile workflows.  
+- Partnered with **UI/UX designers** to deliver user-friendly interfaces, improving worker productivity and reducing training overhead.  
+- Provided deployment support, ensuring smooth rollouts and maintaining system reliability for critical ERP operations.  
 
 
 ## Projects
