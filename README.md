@@ -3,13 +3,23 @@
 **Generative AI Engineer skilled in deploying scalable AI solutions using OpenAI and open-source LLMs.**
 
 ## About Me
-I am currently pursuing a Master of Science in Data Science at **Northeastern University**, where I am maintaining a 3.9 GPA. I have over 2.5 years of professional experience building end-to-end data solutions and deploying cutting-edge AI systems in production environments.
+Meet me, Pratik: a full-time student and part-time chef (only in my own kitchen), who loves hosting dinners that somehow end up with everyone overstuffed and overly impressed. When I’m not juggling assignments, you’ll find me soaking up the sun, hitting the beach, or attempting to pet every cat and dog I spot on the street.
+
+A globetrotter at heart, I once managed to visit four countries in a single month—I still claim it was for “research purposes.” And Sundays? Those are sacred. They’re reserved for my unique brand of therapy: grocery shopping at Trader Joe’s followed by intense gaming sessions. Life’s all about balance, right?
+
 
 ## Education
 - **Northeastern University**, Boston, MA  
   *Master of Science in Data Science* (Expected May 2025)  
-  Graduate Teaching Assistant, Khoury College of Computer Science  
+  **Graduate Teaching Assistant, Khoury College of Computer Science**  
+  - **Fall 2023**: TA for *DS 2000 Programming with Data*, assisting 100+ students with foundational programming concepts, debugging, and solving real-world data challenges.  
+  - **Fall 2024**: TA for *DS 3000 Advanced Programming with Data*, guiding students through advanced topics such as APIs, data visualization, and efficient data manipulation.  
+  - Mentored students during office hours and project consultations, enhancing their problem-solving skills and my ability to communicate complex concepts effectively.  
+  - Collaborated with faculty on assignment design and grading, improving organizational and time management skills.  
+  - This role enhanced my communication, teaching, and leadership abilities while reinforcing my technical expertise.  
+
   *Relevant Courses*: Machine Learning, Deep Learning, NLP, Data Processing & Visualization  
+
 
 - **Vellore Institute of Technology**, Vellore, India  
   *Bachelor of Technology in Computer Science and Engineering* (June 2016 – June 2020)  
