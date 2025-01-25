@@ -3,30 +3,27 @@
 **Generative AI Engineer skilled in deploying scalable AI solutions using OpenAI and open-source LLMs.**
 
 ## About Me
-Meet me, Pratik: a full-time student and part-time chef (only in my own kitchen), who loves hosting dinners that somehow end up with everyone overstuffed and overly impressed. When I’m not juggling assignments, you’ll find me soaking up the sun, hitting the beach, or attempting to pet every cat and dog I spot on the street.
+A full-time student and part-time chef (only in my own kitchen), who loves hosting dinners that somehow end up with everyone overstuffed and overly impressed. When I’m not juggling assignments, you’ll find me soaking up the sun, hitting the beach, or attempting to pet every cat and dog I spot on the street.
 
 A globetrotter at heart, I once managed to visit four countries in a single month—I still claim it was for “research purposes.” And Sundays? Those are sacred. They’re reserved for my unique brand of therapy: grocery shopping at Trader Joe’s followed by intense gaming sessions. Life’s all about balance, right?
 
 
 ## Education
+- **Northeastern University**, Boston, MA  
+  *Master of Science in Data Science* (Expected May 2025)  
+  **Graduate Teaching Assistant, Khoury College of Computer Science**  
+  - **Fall 2023**: TA for *DS 2000 Programming with Data*, assisting 700+ students with foundational programming concepts, debugging, and solving real-world data challenges using Python.  
+  - **Fall 2024**: TA for *DS 3000 Advanced Programming with Data*, guiding students through advanced topics such as APIs, data visualization, and efficient data manipulation.  
+  - Mentored students during office hours and project consultations, enhancing their problem-solving skills and my ability to communicate complex concepts effectively.  
+  - Collaborated with faculty on assignment design and grading, improving organizational and time management skills.  
+  - This role enhanced my communication, teaching, and leadership abilities while reinforcing my technical expertise.  
 
-**Northeastern University**, Boston, MA  
-*Master of Science in Data Science* (Expected May 2025)  
-**Graduate Teaching Assistant, Khoury College of Computer Science**  
-- **Fall 2023**: TA for *DS 2000 Programming with Data*  
-  Assisted 100+ students in learning programming fundamentals, debugging techniques, and real-world data problem-solving.  
-- **Fall 2024**: TA for *DS 3000 Advanced Programming with Data*  
-  Guided students through advanced topics, including APIs, data visualization, and efficient data manipulation.  
-- Mentored students during office hours and project consultations, improving their problem-solving abilities.  
-- Collaborated with faculty on assignment creation, grading, and classroom organization.  
-- Strengthened communication, teaching, and leadership skills through active engagement with diverse student groups.  
-
-*Relevant Courses*: Machine Learning, Deep Learning, NLP, Data Processing & Visualization  
+  *Relevant Courses*: LLM Agents, Supervised & Unsupervised Machine Learning, Deep Learning, NLP, Database Systems, Data Processing & Visualization, Algorithms  
 
 
 - **Vellore Institute of Technology**, Vellore, India  
   *Bachelor of Technology in Computer Science and Engineering* (June 2016 – June 2020)  
-  *Relevant Courses*: AI, Data Mining, Probability Theory, Linear Algebra  
+  *Relevant Courses*: Probability Theory, Linear Algebra, Statistics, Calculus, Differential Equations, AI, Data Mining 
 
 ## Experience
 ### Generative AI Intern - Bose Corporation (January 2024 – August 2024)
