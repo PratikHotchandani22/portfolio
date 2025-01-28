@@ -21,7 +21,11 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
   *Relevant Courses*: Probability Theory, Linear Algebra, Statistics, Calculus, Differential Equations, AI, Data Mining 
 
 ## Work Experience 
-- ### Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)  
+1. ### Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)
+     
+  #### **Key Focus Areas**:  
+  NLP (BERTopic, RoBERTa, GPT-4, Llama 3.1), Data Processing (PySpark, Snowflake SQL), App Development (Streamlit, OpenAI API, RAG), ML Optimization, Stakeholder Communication, Problem-Solving, Data Storytelling
+  
  - Directed data gathering, validation, & preprocessing pipelines for product return data from multiple sources (Amazon, BestBuy, Target) using **PySpark**.  
  - Identified 33 distinct classes on the product return data using **BERTopic**, facilitating data-driven insights for stakeholders.  
  - Fine-tuned, validated, & deployed a **RoBERTa** (Macro F1: **0.92**) model for **multi-label classification (33)** on product return data.  
@@ -33,40 +37,18 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
  - Developed a **Streamlit app** with a **Snowflake SQL** backend, enabling **200+ daily interviews** and saving **50+ hours weekly**.  
  - Led system design, development, and deployment of a **RAG-based customer service assistant**, handling **700+ daily interactions**.  
 
-##### Key Focus Areas:  
-NLP (BERTopic, RoBERTa, GPT-4, Llama 3.1), Data Processing (PySpark, Snowflake SQL), App Development (Streamlit, OpenAI API, RAG), ML Optimization, Stakeholder Communication, Problem-Solving, Data Storytelling
 
-## Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)  
+2. ### Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)
 
-- Developed a **cross-platform ERP application** using **C#**, **Xamarin.Forms**, and **Azure**, providing **SAP S4 HANA** access on mobile and Zebra devices, improving productivity for **10,000+ daily users**.  
-- Enhanced **CI/CD pipelines** and streamlined development workflows, reducing feature delivery time by **55%** using **Agile methodologies** and **Azure DevOps**.  
-- Collaborated with stakeholders and SAP engineers to integrate **SAP S4 HANA modules** (Manufacturing, EWM, HR) into mobile workflows, ensuring efficient usability for factory workers.  
-- Partnered with **UI/UX designers** to create intuitive interfaces, resulting in improved worker adoption and reduced training time.  
-- Led weekly **stakeholder demos**, **scrum meetings**, and feature testing sessions, aligning technical deliverables with business goals.  
-- Provided deployment support during releases, ensuring smooth rollouts and maintaining system reliability.  
-
-### Key Focus Areas:  
-
-#### **Technical Tools & Frameworks**  
-- **Development**: C#, Xamarin.Forms, Azure  
-- **ERP Integration**: SAP S4 HANA (Manufacturing, EWM, HR)  
-- **DevOps & Automation**: Azure DevOps, CI/CD pipelines  
-
-#### **Key Achievements & Metrics**  
-- **Productivity Improvement**: Enabled **10,000+ daily users** to access SAP S4 HANA on mobile and Zebra devices.  
-- **Efficiency Gains**: Reduced feature delivery time by **55%** through optimized CI/CD pipelines and Agile workflows.  
-- **User Adoption**: Improved worker adoption and reduced training time through intuitive UI/UX design.  
-
-#### **Methodologies & Expertise**  
-- **Cross-Platform Development**: Built scalable ERP applications for mobile and Zebra devices using Xamarin.Forms and Azure.  
-- **ERP Integration**: Integrated SAP S4 HANA modules into mobile workflows, enhancing usability for factory workers.  
-- **Agile & Collaboration**: Led scrum meetings, stakeholder demos, and feature testing sessions to align technical deliverables with business goals.  
-
-#### **Collaboration & Impact**  
-- Worked closely with **SAP engineers** and stakeholders to ensure seamless integration of ERP modules into mobile workflows.  
-- Partnered with **UI/UX designers** to deliver user-friendly interfaces, improving worker productivity and reducing training overhead.  
-- Provided deployment support, ensuring smooth rollouts and maintaining system reliability for critical ERP operations.  
-
+   #### **Key Focus Areas**:  
+     Cross-Platform Development (C#, Xamarin.Forms, Azure), ERP Integration (SAP S4 HANA), DevOps (Azure DevOps, CI/CD), Agile Methodologies, Stakeholder Collaboration, UI/UX Design, Data Storytelling 
+ 
+ - Developed a **cross-platform ERP application** using **C#**, **Xamarin.Forms**, and **Azure**, providing **SAP S4 HANA** access on mobile and Zebra devices, improving productivity for **10,000+ daily users**.  
+ - Enhanced **CI/CD pipelines** and streamlined development workflows, reducing feature delivery time by **55%** using **Agile methodologies** and **Azure DevOps**. 
+ - Collaborated with stakeholders and SAP engineers to integrate **SAP S4 HANA modules** (Manufacturing, EWM, HR) into mobile workflows, ensuring efficient usability for factory workers.  
+ - Partnered with **UI/UX designers** to create intuitive interfaces, resulting in improved worker adoption and reduced training time.  
+ - Led weekly **stakeholder demos**, **scrum meetings**, and feature testing sessions, aligning technical deliverables with business goals.  
+ - Provided deployment support during releases, ensuring smooth rollouts and maintaining system reliability.  
 
 ## Projects
 ### This Week in Football (September 2024)
