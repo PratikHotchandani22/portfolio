@@ -20,42 +20,21 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
   *Bachelor of Technology in Computer Science and Engineering* (June 2016 – June 2020)  
   *Relevant Courses*: Probability Theory, Linear Algebra, Statistics, Calculus, Differential Equations, AI, Data Mining 
 
-## Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)  
+## Work Experience 
+- ### Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)  
+ - Directed data gathering, validation, & preprocessing pipelines for product return data from multiple sources (Amazon, BestBuy, Target) using **PySpark**.  
+ - Identified 33 distinct classes on the product return data using **BERTopic**, facilitating data-driven insights for stakeholders.  
+ - Fine-tuned, validated, & deployed a **RoBERTa** (Macro F1: **0.92**) model for **multi-label classification (33)** on product return data.  
+ - Curated 100K+ records of product/app review textual data using **PySpark** & utilized **BERTopic**, collaborating with stakeholders to identify **125 distinct actionable classes**.  
+ - Designed an **Abstract Based Sentiment Analysis pipeline** using **GPT-4** on the 125 labels, engineering prompts to achieve a **Micro F1: 0.6** and **Macro F1: 0.84**.  
+ - Conducted **A/B testing** & **benchmarking of open-source LLMs** to evaluate performance on ABSA pipelines, informing model selection.  
+ - Refactored sentiment analysis pipelines from GPT-4 to **Llama 3.1**, **cutting costs by 97%**.  
+ - Collaborated with stakeholders to define requirements for an "Intelligent Interview Assistant," integrating **OpenAI's Assistant API** with custom **prompt engineering**, enhancing **NLU accuracy by 80%**. 
+ - Developed a **Streamlit app** with a **Snowflake SQL** backend, enabling **200+ daily interviews** and saving **50+ hours weekly**.  
+ - Led system design, development, and deployment of a **RAG-based customer service assistant**, handling **700+ daily interactions**.  
 
-- Directed data gathering, validation, & preprocessing pipelines for product return data from multiple sources (Amazon, BestBuy, Target) using **PySpark**.  
-- Identified 33 distinct classes on the product return data using **BERTopic**, facilitating data-driven insights for stakeholders.  
-- Fine-tuned, validated, & deployed a **RoBERTa** (Macro F1: **0.92**) model for **multi-label classification (33)** on product return data.  
-- Curated 100K+ records of product/app review textual data using **PySpark** & utilized **BERTopic**, collaborating with stakeholders to identify **125 distinct actionable classes**.  
-- Designed an **Abstract Based Sentiment Analysis pipeline** using **GPT-4** on the 125 labels, engineering prompts to achieve a **Micro F1: 0.6** and **Macro F1: 0.84**.  
-- Conducted **A/B testing** & **benchmarking of open-source LLMs** to evaluate performance on ABSA pipelines, informing model selection.  
-- Refactored sentiment analysis pipelines from GPT-4 to **Llama 3.1**, **cutting costs by 97%**.  
-- Collaborated with stakeholders to define requirements for an "Intelligent Interview Assistant," integrating **OpenAI's Assistant API** with custom **prompt engineering**, enhancing **NLU accuracy by 80%**. 
-- Developed a **Streamlit app** with a **Snowflake SQL** backend, enabling **200+ daily interviews** and saving **50+ hours weekly**.  
-- Led system design, development, and deployment of a **RAG-based customer service assistant**, handling **700+ daily interactions**.  
-
-### Key Focus Areas:  
-
-#### **Technical Tools & Frameworks**  
-- **Data Processing & Analysis**: PySpark, Snowflake SQL  
-- **NLP & Topic Modeling**: BERTopic, RoBERTa, GPT-4, Llama 3.1  
-- **Application Development**: Streamlit, OpenAI Assistant API, RAG (Retrieval-Augmented Generation)  
-
-#### **Key Achievements & Metrics**  
-- **Model Performance**: Achieved **Macro F1: 0.92** for multi-label classification and **Macro F1: 0.84** for sentiment analysis.  
-- **Cost Optimization**: Reduced sentiment analysis pipeline costs by **97%** through refactoring and leveraging open-source LLMs.  
-- **Operational Efficiency**: Saved **50+ hours weekly** and enabled **200+ daily interviews** through automation and app development.  
-- **Scalability**: Deployed a RAG-based assistant handling **700+ daily interactions**, improving customer service efficiency.  
-
-#### **Methodologies & Expertise**  
-- **Machine Learning**: Fine-tuning and deploying transformer models (RoBERTa, GPT-4, Llama 3.1) for multi-label classification and sentiment analysis.  
-- **Prompt Engineering**: Designed and optimized prompts for GPT-4 and OpenAI Assistant API, improving NLU accuracy by **80%**.  
-- **A/B Testing & Benchmarking**: Evaluated and compared open-source LLMs to inform model selection and improve pipeline performance.  
-- **End-to-End Pipeline Development**: Built and deployed scalable data preprocessing, modeling, and application pipelines for real-world use cases.  
-
-#### **Collaboration & Impact**  
-- Worked closely with stakeholders to identify **125 actionable classes** from product reviews and deliver data-driven insights.  
-- Collaborated on the design and deployment of an "Intelligent Interview Assistant," streamlining hiring processes and improving candidate experience.  
-- Led the development of a customer service assistant, enhancing user engagement and reducing response times.    
+##### Key Focus Areas:  
+NLP (BERTopic, RoBERTa, GPT-4, Llama 3.1), Data Processing (PySpark, Snowflake SQL), App Development (Streamlit, OpenAI API, RAG), ML Optimization, Stakeholder Communication, Problem-Solving, Data Storytelling
 
 ## Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)  
 
