@@ -21,10 +21,11 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
   *Relevant Courses*: Probability Theory, Linear Algebra, Statistics, Calculus, Differential Equations, AI, Data Mining 
 
 ## Work Experience 
-1. ### Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)
+   
+   ### Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)
      
-  #### **Key Focus Areas**:  
-  NLP (BERTopic, RoBERTa, GPT-4, Llama 3.1), Data Processing (PySpark, Snowflake SQL), App Development (Streamlit, OpenAI API, RAG), ML Optimization, Stakeholder Communication, Problem-Solving, Data Storytelling
+   #### **Key Focus Areas**:  
+   NLP (BERTopic, RoBERTa, GPT-4, Llama 3.1), Data Processing (PySpark, Snowflake SQL), App Development (Streamlit, OpenAI API, RAG), ML Optimization, Stakeholder Communication, Problem-Solving, Data Storytelling
   
  - Directed data gathering, validation, & preprocessing pipelines for product return data from multiple sources (Amazon, BestBuy, Target) using **PySpark**.  
  - Identified 33 distinct classes on the product return data using **BERTopic**, facilitating data-driven insights for stakeholders.  
@@ -38,10 +39,10 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
  - Led system design, development, and deployment of a **RAG-based customer service assistant**, handling **700+ daily interactions**.  
 
 
-2. ### Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)
+   ### Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)
 
    #### **Key Focus Areas**:  
-     Cross-Platform Development (C#, Xamarin.Forms, Azure), ERP Integration (SAP S4 HANA), DevOps (Azure DevOps, CI/CD), Agile Methodologies, Stakeholder Collaboration, UI/UX Design, Data Storytelling 
+   Cross-Platform Development (C#, Xamarin.Forms, Azure), ERP Integration (SAP S4 HANA), DevOps (Azure DevOps, CI/CD), Agile Methodologies, Stakeholder Collaboration, UI/UX Design, Data Storytelling 
  
  - Developed a **cross-platform ERP application** using **C#**, **Xamarin.Forms**, and **Azure**, providing **SAP S4 HANA** access on mobile and Zebra devices, improving productivity for **10,000+ daily users**.  
  - Enhanced **CI/CD pipelines** and streamlined development workflows, reducing feature delivery time by **55%** using **Agile methodologies** and **Azure DevOps**. 
