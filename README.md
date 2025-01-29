@@ -22,7 +22,7 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 
 ## Work Experience 
    
-  ### Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)
+  ### **Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)**
      
    **Key Focus Areas**:  
     NLP (BERTopic, RoBERTa, GPT-4, Llama 3.1), Data Processing (PySpark, Snowflake SQL), App Development (Streamlit, OpenAI API, RAG), ML Optimization, Stakeholder Communication, Problem-Solving, Data Storytelling
@@ -39,7 +39,7 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
   - Led system design, development, and deployment of a **RAG-based customer service assistant**, handling **700+ daily interactions**.  
 
 
-  ### Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)
+  ### **Software Engineer – West Pharmaceutical Services (June 2020 – December 2022)**
 
    **Key Focus Areas**:  
    Cross-Platform Development (C#, Xamarin.Forms, Azure), ERP Integration (SAP S4 HANA), DevOps (Azure DevOps, CI/CD), Agile Methodologies, Stakeholder Collaboration, UI/UX Design, Data Storytelling 
@@ -50,6 +50,15 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
  - Partnered with **UI/UX designers** to create intuitive interfaces, resulting in improved worker adoption and reduced training time.  
  - Led weekly **stakeholder demos**, **scrum meetings**, and feature testing sessions, aligning technical deliverables with business goals.  
  - Provided deployment support during releases, ensuring smooth rollouts and maintaining system reliability.  
+
+ ### **Data Scientist Intern – West Pharmaceutical Services (January 2020 – June 2020)**
+
+   **Key Focus Areas**:  
+   Cross-Platform Development (C#, Xamarin.Forms, Azure), Time Series Forecasting, ML Model Evaluation, Microsofy Graph API, Data Engineering
+ 
+ - Created a scalable ETL pipeline for weekly data collection on conference room usage and scheduling of 10,000+ employees.
+ - Collaborated with teams to deploy ARIMA-based predictive models for forecasting conference room usage, achieving an R² of 0.90
+
 
 ## Projects
 ### This Week in Football (September 2024)
