@@ -24,24 +24,24 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
    
    ### Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)
      
-   #### **Key Focus Areas**:  
-   NLP (BERTopic, RoBERTa, GPT-4, Llama 3.1), Data Processing (PySpark, Snowflake SQL), App Development (Streamlit, OpenAI API, RAG), ML Optimization, Stakeholder Communication, Problem-Solving, Data Storytelling
-  
- - Directed data gathering, validation, & preprocessing pipelines for product return data from multiple sources (Amazon, BestBuy, Target) using **PySpark**.  
- - Identified 33 distinct classes on the product return data using **BERTopic**, facilitating data-driven insights for stakeholders.  
- - Fine-tuned, validated, & deployed a **RoBERTa** (Macro F1: **0.92**) model for **multi-label classification (33)** on product return data.  
- - Curated 100K+ records of product/app review textual data using **PySpark** & utilized **BERTopic**, collaborating with stakeholders to identify **125 distinct actionable classes**.  
- - Designed an **Abstract Based Sentiment Analysis pipeline** using **GPT-4** on the 125 labels, engineering prompts to achieve a **Micro F1: 0.6** and **Macro F1: 0.84**.  
- - Conducted **A/B testing** & **benchmarking of open-source LLMs** to evaluate performance on ABSA pipelines, informing model selection.  
- - Refactored sentiment analysis pipelines from GPT-4 to **Llama 3.1**, **cutting costs by 97%**.  
- - Collaborated with stakeholders to define requirements for an "Intelligent Interview Assistant," integrating **OpenAI's Assistant API** with custom **prompt engineering**, enhancing **NLU accuracy by 80%**. 
- - Developed a **Streamlit app** with a **Snowflake SQL** backend, enabling **200+ daily interviews** and saving **50+ hours weekly**.  
- - Led system design, development, and deployment of a **RAG-based customer service assistant**, handling **700+ daily interactions**.  
+   **Key Focus Areas**:  
+    NLP (BERTopic, RoBERTa, GPT-4, Llama 3.1), Data Processing (PySpark, Snowflake SQL), App Development (Streamlit, OpenAI API, RAG), ML Optimization, Stakeholder Communication, Problem-Solving, Data Storytelling
+   
+  - Directed data gathering, validation, & preprocessing pipelines for product return data from multiple sources (Amazon, BestBuy, Target) using **PySpark**.  
+  - Identified 33 distinct classes on the product return data using **BERTopic**, facilitating data-driven insights for stakeholders.  
+  - Fine-tuned, validated, & deployed a **RoBERTa** (Macro F1: **0.92**) model for **multi-label classification (33)** on product return data.  
+  - Curated 100K+ records of product/app review textual data using **PySpark** & utilized **BERTopic**, collaborating with stakeholders to identify **125 distinct actionable classes**.  
+  - Designed an **Abstract Based Sentiment Analysis pipeline** using **GPT-4** on the 125 labels, engineering prompts to achieve a **Micro F1: 0.6** and **Macro F1: 0.84**.  
+  - Conducted **A/B testing** & **benchmarking of open-source LLMs** to evaluate performance on ABSA pipelines, informing model selection.  
+  - Refactored sentiment analysis pipelines from GPT-4 to **Llama 3.1**, **cutting costs by 97%**.  
+  - Collaborated with stakeholders to define requirements for an "Intelligent Interview Assistant," integrating **OpenAI's Assistant API** with custom **prompt engineering**, enhancing **NLU accuracy by 80%**. 
+  - Developed a **Streamlit app** with a **Snowflake SQL** backend, enabling **200+ daily interviews** and saving **50+ hours weekly**.  
+  - Led system design, development, and deployment of a **RAG-based customer service assistant**, handling **700+ daily interactions**.  
 
 
    ### Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)
 
-   #### **Key Focus Areas**:  
+   **Key Focus Areas**:  
    Cross-Platform Development (C#, Xamarin.Forms, Azure), ERP Integration (SAP S4 HANA), DevOps (Azure DevOps, CI/CD), Agile Methodologies, Stakeholder Collaboration, UI/UX Design, Data Storytelling 
  
  - Developed a **cross-platform ERP application** using **C#**, **Xamarin.Forms**, and **Azure**, providing **SAP S4 HANA** access on mobile and Zebra devices, improving productivity for **10,000+ daily users**.  
