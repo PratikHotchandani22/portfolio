@@ -71,6 +71,6 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 - **Other**: Docker, Kubernetes, LLMOps, Streamlit  
 
 ## Contact
-- **GitHub**: [github.com/yourgithubusername](https://github.com/yourgithubusername)  
+- **GitHub**: [github.com/PratikHotchandani22](https://github.com/PratikHotchandani22)  
 - **LinkedIn**: [linkedin.com/in/pratik-hotchandani](https://linkedin.com/in/pratik-hotchandani)  
-- **Email**: pratik.hotchandani@gmail.com  
+- **Email**: pratikhotchandani22@gmail.com || hotchandani.p@northeastern.edu 
