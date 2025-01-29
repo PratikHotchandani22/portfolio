@@ -22,7 +22,7 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 
 ## Work Experience 
    
-   ### Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)
+  ### Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)
      
    **Key Focus Areas**:  
     NLP (BERTopic, RoBERTa, GPT-4, Llama 3.1), Data Processing (PySpark, Snowflake SQL), App Development (Streamlit, OpenAI API, RAG), ML Optimization, Stakeholder Communication, Problem-Solving, Data Storytelling
@@ -39,7 +39,7 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
   - Led system design, development, and deployment of a **RAG-based customer service assistant**, handling **700+ daily interactions**.  
 
 
-   ### Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)
+  ### Software Engineer – ERP Application Development – West Pharmaceutical Services (June 2020 – December 2022)
 
    **Key Focus Areas**:  
    Cross-Platform Development (C#, Xamarin.Forms, Azure), ERP Integration (SAP S4 HANA), DevOps (Azure DevOps, CI/CD), Agile Methodologies, Stakeholder Collaboration, UI/UX Design, Data Storytelling 
