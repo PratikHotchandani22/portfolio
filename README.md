@@ -22,7 +22,7 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 
 ## Work Experience
 
-### **Bose Corporation**  
+### **Bose Corporation**  *(Boston, MA)* 
 **Applied AI/ML Intern** *(January 2024 – August 2024)*  
 **Key Focus Areas**:  
 *LLM Optimization (GPT-4, Llama 3.1), RAG Systems (AWS Kendra), NLP Pipelines (BERTopic, RoBERTa), Streamlit Development*
