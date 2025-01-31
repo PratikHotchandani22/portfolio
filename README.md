@@ -20,44 +20,43 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
   *Bachelor of Technology in Computer Science and Engineering* (June 2016 – June 2020)  
   *Relevant Courses*: Probability Theory, Linear Algebra, Statistics, Calculus, Differential Equations, AI, Data Mining 
 
-## Work Experience 
-   
-   1. **Applied AI/ML Intern - Bose Corporation (January 2024 – August 2024)**
-     
-   **Key Focus Areas**:  
-    NLP (BERTopic, RoBERTa, GPT-4, Llama 3.1), Data Processing (PySpark, Snowflake SQL), App Development (Streamlit, OpenAI API, RAG), ML Optimization, Stakeholder Communication, Problem-Solving, Data Storytelling
-   
-  - Directed data gathering, validation, & preprocessing pipelines for product return data from multiple sources (Amazon, BestBuy, Target) using **PySpark**.  
-  - Identified 33 distinct classes on the product return data using **BERTopic**, facilitating data-driven insights for stakeholders.  
-  - Fine-tuned, validated, & deployed a **RoBERTa** (Macro F1: **0.92**) model for **multi-label classification (33)** on product return data.  
-  - Curated 100K+ records of product/app review textual data using **PySpark** & utilized **BERTopic**, collaborating with stakeholders to identify **125 distinct actionable classes**.  
-  - Designed an **Abstract Based Sentiment Analysis pipeline** using **GPT-4** on the 125 labels, engineering prompts to achieve a **Micro F1: 0.6** and **Macro F1: 0.84**.  
-  - Conducted **A/B testing** & **benchmarking of open-source LLMs** to evaluate performance on ABSA pipelines, informing model selection.  
-  - Refactored sentiment analysis pipelines from GPT-4 to **Llama 3.1**, **cutting costs by 97%**.  
-  - Collaborated with stakeholders to define requirements for an "Intelligent Interview Assistant," integrating **OpenAI's Assistant API** with custom **prompt engineering**, enhancing **NLU accuracy by 80%**. 
-  - Developed a **Streamlit app** with a **Snowflake SQL** backend, enabling **200+ daily interviews** and saving **50+ hours weekly**.  
-  - Led system design, development, and deployment of a **RAG-based customer service assistant**, handling **700+ daily interactions**.  
+## Work Experience
 
+### **Bose Corporation**  
+**Applied AI/ML Intern** *(January 2024 – August 2024)*  
+**Key Focus Areas**:  
+*LLM Optimization (GPT-4, Llama 3.1), RAG Systems (AWS Kendra), NLP Pipelines (BERTopic, RoBERTa), Streamlit Development*
 
-   2. **Software Engineer – West Pharmaceutical Services (June 2020 – December 2022)**
+- **AI Interview Automation**: Engineered OpenAI-powered assistant with Streamlit-Snowflake backend automating **200+ daily interviews**, reducing candidate dropout by **30%** while saving **50+ weekly hours**
+- **Enterprise Chatbot**: Deployed AWS Kendra RAG system handling **2K+ daily interactions** at **99.8% uptime**, validated through red team testing and guardrail implementation
+- **Cost-Optimized LLM Ops**: Transitioned sentiment analysis from GPT-4→Llama 3.1 via A/B testing, achieving **97% cost reduction** while maintaining performance on 2M+ records
+- **GenAI Analytics**: Automated product review analysis using Claude Sonnet/AWS Bedrock, enabling **65% faster insights** via Streamlit dashboard with **98% accuracy**
 
-   **Key Focus Areas**:  
-   Cross-Platform Development (C#, Xamarin.Forms, Azure), ERP Integration (SAP S4 HANA), DevOps (Azure DevOps, CI/CD), Agile Methodologies, Stakeholder Collaboration, UI/UX Design, Data Storytelling 
- 
- - Developed a **cross-platform ERP application** using **C#**, **Xamarin.Forms**, and **Azure**, providing **SAP S4 HANA** access on mobile and Zebra devices, improving productivity for **10,000+ daily users**.  
- - Enhanced **CI/CD pipelines** and streamlined development workflows, reducing feature delivery time by **55%** using **Agile methodologies** and **Azure DevOps**. 
- - Collaborated with stakeholders and SAP engineers to integrate **SAP S4 HANA modules** (Manufacturing, EWM, HR) into mobile workflows, ensuring efficient usability for factory workers.  
- - Partnered with **UI/UX designers** to create intuitive interfaces, resulting in improved worker adoption and reduced training time.  
- - Led weekly **stakeholder demos**, **scrum meetings**, and feature testing sessions, aligning technical deliverables with business goals.  
- - Provided deployment support during releases, ensuring smooth rollouts and maintaining system reliability.  
+---
 
-   3. **Data Scientist Intern – West Pharmaceutical Services (January 2020 – June 2020)**
+### **West Pharmaceutical Services** *(Bangalore, IN)*  
+**Data Scientist** *(November 2020 – December 2022)*  
+**Key Focus Areas**:  
+*Computer Vision (XceptionNet), Cloud Deployment (Azure), Production ML, Data Visualization*
 
-   **Key Focus Areas**:  
-   Cross-Platform Development (C#, Xamarin.Forms, Azure), Time Series Forecasting, ML Model Evaluation, Microsofy Graph API, Data Engineering
- 
- - Created a scalable ETL pipeline for weekly data collection on conference room usage and scheduling of 10,000+ employees.
- - Collaborated with teams to deploy ARIMA-based predictive models for forecasting conference room usage, achieving an R² of 0.90
+- **Defect Detection**: Architected XceptionNet model identifying **15 defect classes** (**92% accuracy**, **37% improvement** vs manual), deployed via Docker/Azure
+- **Production Analytics**: Built Power BI dashboards enabling **43% faster** issue identification through visual trend analysis
+- **Document Intelligence**: Implemented BERT/ALBERT/RoBERTa pipelines improving document-keyword mapping by **23%**
+
+**Associate Data Scientist** *(January 2020 – November 2020)*  
+**Key Focus Areas**:  
+*ETL Pipelines (Azure Data Factory), NLP (Transformers), Data Lake Architecture*
+
+- **Data Integration**: Engineered Azure pipelines ingesting documents from **10+ sources** into unified data lake
+
+---
+
+### **Info Origin** *(Bangalore, IN)*  
+**Data Scientist Intern** *(May 2018 – August 2018)*  
+**Key Focus Areas**:  
+*Time Series Forecasting (ARIMA), ETL Development*
+
+- **Workplace Analytics**: Developed ETL pipeline for 10K+ employee data, deploying ARIMA models (*R²:0.90*) for conference room usage forecasting
 
 
 ## Projects
