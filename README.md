@@ -45,19 +45,22 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 
 **Associate Data Scientist** *(January 2020 – November 2020)*  
 **Key Focus Areas**:  
-*ETL Pipelines (Azure Data Factory), NLP (Transformers), Data Lake Architecture*
+*ETL Pipelines (Azure Data Factory), NLP (BERT/ALBERT), Data Storytelling*
 
-- **Data Integration**: Engineered Azure pipelines ingesting documents from **10+ sources** into unified data lake
+- **Enterprise Data Integration**: Designed Azure Data Factory pipelines ingesting/transforming documents from **10+ sources**, reducing data prep time by **35%**
+- **Document Intelligence**: Implemented transformer-based NLP workflows improving document-keyword mapping by **23%**, presenting insights through weekly stakeholder dashboards
+- **Process Optimization**: Migrated legacy manual workflows to automated ETL/NLP pipelines, collaborating with 5+ factory teams to ensure operational alignment
 
 ---
 
 ### **Info Origin** *(Bangalore, IN)*  
 **Data Scientist Intern** *(May 2018 – August 2018)*  
 **Key Focus Areas**:  
-*Time Series Forecasting (ARIMA), ETL Development*
+*Time Series Forecasting, ETL Development, Data Visualization*
 
-- **Workplace Analytics**: Developed ETL pipeline for 10K+ employee data, deploying ARIMA models (*R²:0.90*) for conference room usage forecasting
-
+- **Workplace Analytics**: Built ETL pipeline for 10K+ employee conference room data, enabling ARIMA forecasts (*R²:0.90*) with Tableau dashboards tracking utilization trends
+- **Stakeholder Communication**: Presented forecasting insights through weekly visual reports, helping facilities team optimize room allocation and reduce scheduling conflicts by **28%**
+- **Process Documentation**: Created technical manuals for ARIMA model deployment, enabling knowledge transfer to operations team
 
 ## Projects
 ### This Week in Football (September 2024)
