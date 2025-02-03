@@ -71,13 +71,17 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 - Built an LLM agent to scrape job descriptions, match resume embeddings, and generate tailored resumes/cover letters.
 - Tools: OpenAI Embedding API, Groq Llama 3.1 API, Streamlit
 
+
 ### This Week in Football (September 2024)
 - Developed a local LLM-powered agent to summarize and classify Reddit football data into short audio/text insights.
 - Tools: Reddit API, LangChain, Qwen 2.5, Llama 3.1, PostgreSQL
 
+
 ### ArguSense: Argument Essay Evaluation (September 2023)
 - Developed an NLP pipeline using Longformers and BERT to classify argument structures in essays. Integrated MLflow in AWS for scalable model tracking, versioning, and deployment with containerization.
-- Tools: Streamlit, HuggingFace, Named Entity Recognition, Longformers, BERT, MLFlow, AWS, Git LFS               
+- Tools: Streamlit, HuggingFace, Named Entity Recognition, Longformers, BERT, MLFlow, AWS, Git LFS
+
+  
 ### Football Match Analysis and Predictions (June 2023) [Live App](https://barca-ds.streamlit.app) 
 - Deployed a Streamlit app for interactive analysis and visualization of 500+ football matches, integrating an ensemble model with Markov Chains, XGBoost, and Logistic Regression to predict the "Expected Threat" metric.  
 - Tools: Streamlit, Python, StatsBomb API, OpenAI API, Postgresql
