@@ -63,13 +63,28 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 - **Process Documentation**: Created technical manuals for ARIMA model deployment, enabling knowledge transfer to operations team
 
 ## Projects
-### This Week in Football (September 2024)
-- Developed a local LLM-powered agent to summarize and classify Reddit football data into short audio/text insights.
-- Tools: Reddit API, LangChain, Qwen 2.5, Llama 3.1, PostgreSQL  
+### Visual Mood-Based Music Recommendation (January 2025)
+- Leveraged LLaVA for vision-language understanding, retrieved mood-aligned songs via RAG with contrastive learning on audio embeddings, and integrated personalized Spotify playlist filtering.
+- Tools: LLaVA, RAG, Contrastive Learning, Spotify API, Streamlit 
 
 ### Automating Job Applications (October 2024)
 - Built an LLM agent to scrape job descriptions, match resume embeddings, and generate tailored resumes/cover letters.
-- Tools: OpenAI Embedding API, Groq Llama 3.1 API, Streamlit  
+- Tools: OpenAI Embedding API, Groq Llama 3.1 API, Streamlit
+- - [Live App: **https://promatchanalytics.streamlit.app**]  
+
+### This Week in Football (September 2024)
+- Developed a local LLM-powered agent to summarize and classify Reddit football data into short audio/text insights.
+- Tools: Reddit API, LangChain, Qwen 2.5, Llama 3.1, PostgreSQL
+
+### ArguSense: Argument Essay Evaluation (September 2023)
+- Developed an NLP pipeline using Longformers and BERT to classify argument structures in essays. Integrated MLflow in AWS for scalable model tracking, versioning, and deployment with containerization.
+- Tools: Streamlit, HuggingFace, Named Entity Recognition, Longformers, BERT, MLFlow, AWS, Git LFS               
+
+### Football Match Analysis and Predictions (June 2023)
+- Deployed a Streamlit app for interactive analysis and visualization of 500+ football matches, integrating an ensemble model with Markov Chains, XGBoost, and Logistic Regression to predict the "Expected Threat" metric.  
+- Tools: Streamlit, Python, StatsBomb API, OpenAI API, Postgresql
+- [Live App: **https://barca-ds.streamlit.app**]  
+
 
 ## Achievements
 - **Most Impactful Business Project Award** - Bose Hackathon: Developed a semantic search retrieval system for 1M+ records.
