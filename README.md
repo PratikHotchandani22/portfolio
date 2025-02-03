@@ -70,7 +70,7 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 ### Automating Job Applications (October 2024)
 - Built an LLM agent to scrape job descriptions, match resume embeddings, and generate tailored resumes/cover letters.
 - Tools: OpenAI Embedding API, Groq Llama 3.1 API, Streamlit
-- - [Live App: **https://promatchanalytics.streamlit.app**]  
+- [Live App](https://promatchanalytics.streamlit.app)
 
 ### This Week in Football (September 2024)
 - Developed a local LLM-powered agent to summarize and classify Reddit football data into short audio/text insights.
