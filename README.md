@@ -99,4 +99,4 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 ## Contact
 - **GitHub**: [github.com/PratikHotchandani22](https://github.com/PratikHotchandani22)  
 - **LinkedIn**: [linkedin.com/in/pratik-hotchandani](https://linkedin.com/in/pratik-hotchandani)  
-- **Email**: pratikhotchandani22@gmail.com  hotchandani.p@northeastern.edu 
+- **Email**: pratikhotchandani22@gmail.com, hotchandani.p@northeastern.edu 
