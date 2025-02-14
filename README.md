@@ -63,7 +63,7 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 - **Process Documentation**: Created technical manuals for ARIMA model deployment, enabling knowledge transfer to operations team
 
 ## Projects
-### Visual Mood-Based Music Recommendation (January 2025)
+### Visual Mood-Based Music Recommendation (In progress)
 - Leveraged LLaVA for vision-language understanding, retrieved mood-aligned songs via RAG with contrastive learning on audio embeddings, and integrated personalized Spotify playlist filtering.
 - Tools: LLaVA, RAG, Contrastive Learning, Spotify API, Streamlit 
 
