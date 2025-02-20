@@ -27,6 +27,7 @@ A globetrotter at heart, I once managed to visit four countries in a single mont
 **Key Focus Areas**:  
 *LLM Optimization (GPT-4, Llama 3.1), RAG Systems (AWS Kendra), NLP Pipelines (BERTopic, RoBERTa), Streamlit Development*
 
+- **End-to-End ML Pipeline**:	Implemented unsupervised topic clustering to identify 120 key return drivers from customer feedback. Trained & deployed a RoBERTa model on AWS for multi-label classification F1 Score 0.92, integrating Spark for data preprocessing, model inference, & result cleaning. 
 - **AI Interview Automation**: Engineered OpenAI-powered assistant with Streamlit-Snowflake backend automating **200+ daily interviews**, reducing candidate dropout by **30%** while saving **50+ weekly hours**
 - **Enterprise Chatbot**: Deployed AWS Kendra RAG system handling **2K+ daily interactions** at **99.8% uptime**, validated through red team testing and guardrail implementation
 - **Cost-Optimized LLM Ops**: Transitioned sentiment analysis from GPT-4→Llama 3.1 via A/B testing, achieving **97% cost reduction** while maintaining performance on 2M+ records
