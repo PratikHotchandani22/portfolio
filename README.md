@@ -1,7 +1,7 @@
 ## About Me
-A full-time student and part-time chef (only in my own kitchen), who loves hosting dinners that somehow end up with everyone overstuffed and overly impressed. When I’m not juggling assignments, you’ll find me soaking up the sun, hitting the beach, or attempting to pet every cat and dog I spot on the street.
-
-A globetrotter at heart, I once managed to visit four countries in a single month—I still claim it was for “research purposes.” And Sundays? Those are sacred. They’re reserved for my unique brand of therapy: grocery shopping at Trader Joe’s followed by intense gaming sessions. Life’s all about balance, right?
+A full-time student and part-time chef (only in my own kitchen), who loves hosting dinners that somehow end up with everyone overstuffed and overly impressed. Born into a family where music flows through our veins, I grew up surrounded by melodies that shaped my path—from family jam sessions to my current role at Bose, where I merge my passion for sound with cutting-edge technology.
+When I'm not juggling assignments or diving into data science projects in the media industry, you'll find me soaking up the sun, hitting the beach, or attempting to pet every cat and dog I spot on the street. A globetrotter at heart, I once managed to visit four countries in a single month—I still claim it was for "research purposes."
+And Sundays? Those are sacred. They're reserved for my unique brand of therapy: grocery shopping at Trader Joe's followed by intense gaming sessions, all while curating the perfect soundtrack, of course. Life's all about finding harmony in every sense of the word, right?
 
 
 ## Education
