@@ -8,7 +8,7 @@ And Sundays? Those are sacred. They're reserved for my unique brand of therapy: 
 
 ## Education
 - **Northeastern University**, Boston, MA  
-  *Master of Science in Data Science* (Expected May 2025)  
+  *Master of Science in Data Science* (Graduated May 2025)  
   **Graduate Teaching Assistant, Khoury College of Computer Science**  
   - **Fall 2023**: TA for *DS 2000 Programming with Data*, assisting 700+ students with foundational programming concepts, debugging, and solving real-world data challenges using Python.  
   - **Fall 2024**: TA for *DS 3000 Advanced Programming with Data*, guiding students through advanced topics such as APIs, data visualization, and efficient data manipulation.  
